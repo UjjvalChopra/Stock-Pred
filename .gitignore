@@ -94,6 +94,9 @@ docs/_build/
 target/
 
 # Jupyter Notebook
+*.ipynb
+# Data for training models
+data/
 .ipynb_checkpoints
 
 # pyenv
